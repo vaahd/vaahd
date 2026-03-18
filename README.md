@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm <b>Vahid</b>, a passionate Full Stack Developer from Kannur, Kerala 🇮🇳
+I'm <b>Vahid</b>, a passionate Full Stack Developer from Kannur, Kerala
 </p>
 
 ---
